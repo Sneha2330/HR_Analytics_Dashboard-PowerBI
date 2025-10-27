@@ -1,8 +1,9 @@
 
 ## 📊 HR Analytics Dashboard — Power BI Project
 
-Dashboards%20Screenshots/Dashboard%201.png
-
+<p align="center">
+  <img width="700" height="170" src=""C:\Users\snmallic\Downloads\Screenshots\Dashboard_1.png"">
+</p>
 
 ## Overview
 
