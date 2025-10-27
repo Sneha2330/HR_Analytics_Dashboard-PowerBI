@@ -1,7 +1,7 @@
 
 ## 📊 HR Analytics Dashboard — Power BI Project
 
-Dashboard%20Screenshots/Dashboard%201.png
+Dashboards%20Screenshots/Dashboard%201.png
 
 
 ## Overview
