@@ -1,4 +1,12 @@
-Dashboards/Dashboard screenshots.png
+
+## 📸 Dashboard Screenshots
+
+Dashboard%20Screenshots/Dashboard%201.png
+Dashboard%20Screenshots/Dashboard%202.png
+![shboard%20Screenshots/Dashboard%203.png
+Dashboard%20Screenshots/Dashboard%204.png
+![Dashboard 5](Dashboard%20Screenshots/Dashboardard%20Screenshots/Dashboard%206.png
+
 
 📊 HR Analytics Dashboard — Power BI Project
 
