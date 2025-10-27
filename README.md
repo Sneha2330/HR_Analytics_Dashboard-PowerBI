@@ -2,7 +2,7 @@
 ## 📊 HR Analytics Dashboard — Power BI Project
 
 <p align="center">
-  <img width="700" height="170" src="Dashboards/Screenshots/Dashboard_1.png">
+  <img width="700" height="570" src="Dashboards/Screenshots/Dashboard_1.png">
 </p>
 
 ## Overview
